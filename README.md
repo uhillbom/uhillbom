@@ -1,6 +1,6 @@
 ## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 working in the automotive industry.
-- 💼 Creator 𝚘𝚏 Svelte Web Application [Swedish Hockey Map](https://www.swehockeymap.se)
+- 💼 Creator 𝚘𝚏 [Swedish Hockey Map](https://www.swehockeymap.se) using Sveltekit as framework.
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
