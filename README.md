@@ -23,6 +23,7 @@ Finish this ReadMe
 
 ## ⚡ 𝙻𝚒𝚜𝚝 𝚘𝚏 some cool VsCode extensions I recommend
 
-1. Prettier
-2. Thunder Client
-3. Python
+1. Prettier for formatting
+2. Thunder Client for REST API testing
+3. Black formatter for Python
+4. AutoDocstring for Python
