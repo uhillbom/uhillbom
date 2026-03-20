@@ -12,7 +12,6 @@
 ```yaml
 - develop on swedish healthcare projects
 - developing myself
-- personal projecting on Svelte projects
 ```
 
 - 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
