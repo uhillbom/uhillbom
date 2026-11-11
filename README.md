@@ -2,10 +2,7 @@
 - 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 .NET and React developing Swedish healtcare.
 
 ## Past
-- 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 working in the automotive industry @ A Swedish Car Company =)
-
-## My public portfolio of projects
-- 💼 Creator 𝚘𝚏 [Swedish Hockey Map](https://www.swehockeymap.se)
+- 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 working in the automotive industry @ A Swedish Car Company 
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
